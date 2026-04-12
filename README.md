@@ -102,7 +102,7 @@ If a transaction is reconstructed poorly, it may indicate fraudulent or anomalou
 ```bash
 pip install pandas numpy matplotlib scikit-learn imbalanced-learn tensorflow
 Results
-
+##REsults
 The Autoencoder achieved strong fraud recall, showing that it can detect a large portion of fraudulent transactions.
 Further threshold tuning is needed to reduce false positives and improve precision.
 
